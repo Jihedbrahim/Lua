@@ -1,0 +1,13 @@
+<meta>
+	<script src="client.lua" type="client"/>
+	<script src="c_shop.lua" type="client"/>
+	<script src="table.lua" type="client"/>
+	<script src="utility.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+	<file src="fonts/sp.ttf" />
+
+	<file src="sounds/back.wav" />
+	<file src="sounds/move.wav" />
+	<file src="sounds/open.wav" />
+	<file src="sounds/remove.wav" />
+</meta>

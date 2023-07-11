@@ -1,0 +1,12 @@
+<meta>
+	<script src="c_shop.lua" type="client"/>
+	<script src="shop.lua" type="client"/>
+	<script src="utility.lua" type="client"/>
+	<file src="img/burger.png"/>
+	<file src="img/drink.png"/>
+	<file src="img/fries.png"/>
+	<file src="img/meal.png"/>
+	<file src="img/minus.png"/>
+	<file src="img/plus.png"/>
+	<file src="img/bar.png"/>
+</meta>

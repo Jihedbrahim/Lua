@@ -1,0 +1,10 @@
+	<!--<meta>
+	<info author="BenFireShade" type="script" name="MySQL" description="SQL Configuration"/>
+	
+<script src="server.lua" protected="true" />
+	
+	
+	<export function="getDatabase" type="server"/>
+	<export function="DatabaseExec" type="server"/>
+	<export function="DatabaseQuery" type="server"/>
+</meta>-->

@@ -1,0 +1,15 @@
+<meta>
+	<script src="tables.lua" type="client"/>
+	<script src="data.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+	
+	<script src="c_shop.lua" type="client"/>
+	
+	<script src="utility.lua" type="client"/>
+	<script src="c_gui.lua" type="client"/>
+
+	<script src="s_gui.lua" type="server"/>
+	<script src="s_shop.lua" type="server"/>
+	
+
+</meta>

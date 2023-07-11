@@ -1,0 +1,12 @@
+<meta>
+    <info author="Dutchman101" version="1.5" type="misc" name="Drop with /drop (lowsize)"/>
+    <script src="m.lua" type="client" />
+	<script src="c.lua" type="client" />
+
+	<script src="s.lua" type="server" />
+    <map src="drop.map" dimension="0"></map>
+    <script src="replace.lua" type="client" />
+	<file src="data/roads.txd" />
+	<file src="data/jumps.txd" />
+	
+</meta>

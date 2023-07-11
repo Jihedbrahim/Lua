@@ -1,0 +1,25 @@
+<meta>
+	<script src="utilities.lua" type="client"/>
+	<script src="camera.lua" type="client"/>
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+	<!-- Picture files -->
+	<file src="files/new login.png" />
+	<file src="files/new login hover.png" />
+	<file src="files/register_panel.png" />
+	<file src="files/register_panel_hover.png" />
+	<file src="files/underthing.png" />
+
+	<file src="files/register panel.png" />
+
+	<!-- font files -->
+	<file src="files/roboto.ttf"/>
+
+
+<aclrequest>
+		<right name="function.kickPlayer" 	access="true" />
+		<right name="function.removeAccount" 	access="true" />
+		<right name="function.addAccount" 	access="true" />
+	</aclrequest>
+
+</meta>
